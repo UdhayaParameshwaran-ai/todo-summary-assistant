@@ -89,4 +89,8 @@ npm run dev
 
 ### UI of the application
 
+![image_alt](https://github.com/UdhayaParameshwaran-ai/todo-summary-assistant/blob/9be0d756c83f9cb065949fb1721375ea812352f5/frontend/public/Screenshots/ui.png)
+
 ### Slack channel post message
+
+![image_alt](https://github.com/UdhayaParameshwaran-ai/todo-summary-assistant/blob/9be0d756c83f9cb065949fb1721375ea812352f5/frontend/public/Screenshots/slack.png)
