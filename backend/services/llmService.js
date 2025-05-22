@@ -1,7 +1,9 @@
 import { GoogleGenAI } from "@google/genai";
+import dotenv from "dotenv";
+dotenv.config();
 
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyB76153KuJdVIQPDkDgkjjwkfLkL1g3HDs",
+  apiKey: process.env.GENAI_API_KEY,
 });
 
 export default async function summarize(todos) {
